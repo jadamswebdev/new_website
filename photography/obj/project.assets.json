@@ -20,7 +20,7 @@
       "outputPath": "/Users/jeffreyadams/Projects/new_website/photography/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/jeffreyadams/.config/NuGet/NuGet.Config"
+        "/Users/jeffreyadams/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp3.1"
