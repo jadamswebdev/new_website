@@ -402,5 +402,5 @@ li {
 }
 
 .test {
-
+    background: content-box;
 }

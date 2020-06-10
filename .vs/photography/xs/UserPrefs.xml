@@ -1,9 +1,9 @@
-﻿<Properties StartupConfiguration="{F40018EB-8904-4BE8-905C-A821D43DAD38}|Default">
+﻿<Properties GitUserInfo="UsingGIT" StartupConfiguration="{F40018EB-8904-4BE8-905C-A821D43DAD38}|Default">
   <MonoDevelop.Ide.ItemProperties.photography PreferredExecutionTarget="/Applications/Safari.app" />
   <MonoDevelop.Ide.Workbench>
     <Files>
       <File FileName="photography/Pages/Index.cshtml" Line="1" Column="1" />
-      <File FileName="photography/wwwroot/css/site.css" Line="1" Column="1" />
+      <File FileName="photography/wwwroot/css/site.css" Line="405" Column="29" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
