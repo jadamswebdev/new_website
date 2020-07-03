@@ -34,6 +34,9 @@ h3 {
     font-weight: 100;
     font-size: 2em;
 }
+ p {
+     font-family: arpona; 
+ }
 
 /* Sticky footer styles
 -------------------------------------------------- */
@@ -88,19 +91,19 @@ body {
 }
 
 .col1 {
-    background-image: url(http://d1bu5rn6887f3r.cloudfront.net/dndbg.jpg);
+    background-image: url(https://d1bu5rn6887f3r.cloudfront.net/me2.jpg);
     background-size: cover;
     background-position: center;
 }
 
 .col2 {
-    background-image: url(http://d1bu5rn6887f3r.cloudfront.net/newimage2.jpg);
+    background-image: url(https://d1bu5rn6887f3r.cloudfront.net/newimage2.jpg);
     background-size: cover;
     background-position: center;
 }
 
 .col3 {
-    background-image: url(http://d1bu5rn6887f3r.cloudfront.net/techbg.jpg);
+    background-image: url(https://d1bu5rn6887f3r.cloudfront.net/techbg.jpg);
     background-size: cover;
     background-position: center;
 }
@@ -279,6 +282,10 @@ ul {
     font-weight: 400;
 }
 
+.fligh {
+    font-weight: 300;
+}
+
 li {
     font-weight: 100;
 }
@@ -293,7 +300,7 @@ li {
 
 #banner {
     height: 250px;
-    background-image: url(http://d1bu5rn6887f3r.cloudfront.net/tech.jpg);
+    background-image: url(https://d1bu5rn6887f3r.cloudfront.net/tech.jpg);
     background-position: center;
     background-size: cover;
 }
@@ -394,13 +401,24 @@ li {
     border-radius: 50%;
 }
 
-
-
-
-@media (min-width: @screen-sm-min) {
-    
+#row-unhide {
+    display: none;
 }
 
-.test {
-    background: content-box;
+@media (max-width:629px) {
+    #row-hide {
+        display: none;
+    }
+    #row-unhide {
+        display: flex;
+    }
 }
+
+.sm-logo {
+    width: 25px;
+}
+
+.blue-bold {
+    font-weight: 700;
+}
+

@@ -129,3 +129,5 @@
 /Users/jeffreyadams/Projects/new_website/photography/obj/Release/netcoreapp3.1/photography.pdb
 /Users/jeffreyadams/Projects/new_website/photography/obj/Release/netcoreapp3.1/photography.genruntimeconfig.cache
 /Users/jeffreyadams/Projects/new_website/photography/obj/Release/netcoreapp3.1/photography.csproj.CopyComplete
+/Users/jeffreyadams/Projects/new_website/photography/obj/Release/netcoreapp3.1/Razor/Pages/archive/a01.cshtml.g.cs
+/Users/jeffreyadams/Projects/new_website/photography/obj/Release/netcoreapp3.1/Razor/Pages/archive/a02.cshtml.g.cs
